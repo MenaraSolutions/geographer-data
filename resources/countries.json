@@ -2434,7 +2434,7 @@
         "IMN",
         "833"
       ],
-      "fips": "IM",
+      "fips": false,
       "geonames": 3042225
     },
     "long": {
