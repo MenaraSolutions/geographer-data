@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MenaraSolutions\\Geographer\\Helpers": "helpers/"
+            "MenaraSolutions\\Geographer\\Helpers\\": "helpers/"
         }
     }
 }
