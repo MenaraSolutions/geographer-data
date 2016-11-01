@@ -1,0 +1,13 @@
+[
+    {
+        "parent": "MQ",
+        "ids": {
+            "fips": false,
+            "geonames": 6690603,
+            "iso_3166_2": false
+        },
+        "long": {
+            "default": "Martinique"
+        }
+    }
+]

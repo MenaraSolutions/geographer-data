@@ -1,0 +1,15 @@
+{
+    "name": "menarasolutions/geographer-data",
+    "type": "library",
+    "description": "Basic data package for Geographer - countries and their subdivisions",
+    "keywords": ["geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-data",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ]
+}

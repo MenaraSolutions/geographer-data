@@ -1,0 +1,13 @@
+[
+    {
+        "parent": "RE",
+        "ids": {
+            "fips": false,
+            "geonames": 6690283,
+            "iso_3166_2": false
+        },
+        "long": {
+            "default": "Réunion"
+        }
+    }
+]
