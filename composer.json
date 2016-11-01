@@ -11,5 +11,10 @@
             "email": "denis@menara.com.au",
             "homepage": "https://www.menara.com.au"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "MenaraSolutions\\Geographer\\Helpers": "helpers/"
+        }
+    }
 }
