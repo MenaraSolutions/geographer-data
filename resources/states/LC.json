@@ -26,7 +26,7 @@
         "ids": {
             "fips": "ST11",
             "geonames": 3576507,
-            "iso_3166_2": "LC-"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Praslin"
@@ -110,6 +110,16 @@
         }
     },
     {
+        "parent": "LC",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "LC-12"
+        },
+        "long": {
+            "default": "Canaries"
+        }
+    },    {
         "parent": "LC",
         "ids": {
             "fips": "ST01",
