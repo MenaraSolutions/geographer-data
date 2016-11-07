@@ -1,5 +1,37 @@
 [
   {
+    "languages": [],
+    "ids": {
+      "iso_3166_1": false,
+      "fips": "AX",
+      "geonames": false
+    },
+    "long": {
+      "default": "Akrotiri and Dhekelia"
+    },
+    "area": 254,
+    "currency": "EUR",
+    "phone": "357",
+    "continent": "EU",
+    "population": 14000
+  },
+  {
+    "languages": [],
+    "ids": {
+      "iso_3166_1": false,
+      "fips": "AT",
+      "geonames": false
+    },
+    "long": {
+      "default": "Ashmore and Cartier Islands"
+    },
+    "area": 3,
+    "currency": null,
+    "phone": null,
+    "continent": "OC",
+    "population": 0
+  },
+  {
     "languages": [
       "fa"
     ],
