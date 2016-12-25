@@ -3,7 +3,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP27",
-            "geonames": 686966
+            "geonames": 686966,
+            "iso_3166_2": "UA-18"
         },
         "long": {
             "default": "Zhytomyr"
@@ -13,7 +14,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP26",
-            "geonames": 687699
+            "geonames": 687699,
+            "iso_3166_2": "UA-23"
         },
         "long": {
             "default": "Zaporizhia"
@@ -23,7 +25,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP25",
-            "geonames": 687869
+            "geonames": 687869,
+            "iso_3166_2": "UA-21"
         },
         "long": {
             "default": "Zakarpattia"
@@ -33,7 +36,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP24",
-            "geonames": 689064
+            "geonames": 689064,
+            "iso_3166_2": "UA-07"
         },
         "long": {
             "default": "Volyn"
@@ -43,7 +47,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP23",
-            "geonames": 689559
+            "geonames": 689559,
+            "iso_3166_2": "UA-05"
         },
         "long": {
             "default": "Vinnyts'ka"
@@ -53,7 +58,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP22",
-            "geonames": 691649
+            "geonames": 691649,
+            "iso_3166_2": "UA-61"
         },
         "long": {
             "default": "Ternopil"
@@ -63,7 +69,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP21",
-            "geonames": 692196
+            "geonames": 692196,
+            "iso_3166_2": "UA-59"
         },
         "long": {
             "default": "Sumy"
@@ -73,7 +80,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP20",
-            "geonames": 694422
+            "geonames": 694422,
+            "iso_3166_2": "UA-40"
         },
         "long": {
             "default": "Misto Sevastopol’"
@@ -83,7 +91,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP19",
-            "geonames": 695592
+            "geonames": 695592,
+            "iso_3166_2": "UA-56"
         },
         "long": {
             "default": "Rivne"
@@ -93,7 +102,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP18",
-            "geonames": 696634
+            "geonames": 696634,
+            "iso_3166_2": "UA-53"
         },
         "long": {
             "default": "Poltava"
@@ -103,7 +113,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP17",
-            "geonames": 698738
+            "geonames": 698738,
+            "iso_3166_2": "UA-51"
         },
         "long": {
             "default": "Odessa"
@@ -113,7 +124,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP16",
-            "geonames": 700567
+            "geonames": 700567,
+            "iso_3166_2": "UA-48"
         },
         "long": {
             "default": "Mykolaiv"
@@ -123,7 +135,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP15",
-            "geonames": 702549
+            "geonames": 702549,
+            "iso_3166_2": "UA-46"
         },
         "long": {
             "default": "Lviv"
@@ -133,7 +146,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP14",
-            "geonames": 702657
+            "geonames": 702657,
+            "iso_3166_2": "UA-09"
         },
         "long": {
             "default": "Luhansk"
@@ -144,7 +158,7 @@
         "ids": {
             "fips": "UP13",
             "geonames": 703446,
-            "iso_3166_2": "UA-30"
+            "iso_3166_2": "UA-32"
         },
         "long": {
             "default": "Kyiv"
@@ -154,7 +168,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP12",
-            "geonames": 703447
+            "geonames": 703447,
+            "iso_3166_2": "UA-30"
         },
         "long": {
             "default": "Kyiv City"
@@ -164,7 +179,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP11",
-            "geonames": 703883
+            "geonames": 703883,
+            "iso_3166_2": "UA-43"
         },
         "long": {
             "default": "Crimea"
@@ -174,7 +190,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP10",
-            "geonames": 705811
+            "geonames": 705811,
+            "iso_3166_2": "UA-35"
         },
         "long": {
             "default": "Kirovohrad"
@@ -184,7 +201,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP09",
-            "geonames": 706370
+            "geonames": 706370,
+            "iso_3166_2": "UA-68"
         },
         "long": {
             "default": "Khmelnytskyi"
@@ -194,7 +212,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP08",
-            "geonames": 706442
+            "geonames": 706442,
+            "iso_3166_2": "UA-65"
         },
         "long": {
             "default": "Kherson"
@@ -204,7 +223,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP07",
-            "geonames": 706482
+            "geonames": 706482,
+            "iso_3166_2": "UA-63"
         },
         "long": {
             "default": "Kharkiv"
@@ -214,7 +234,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP06",
-            "geonames": 707470
+            "geonames": 707470,
+            "iso_3166_2": "UA-26"
         },
         "long": {
             "default": "Ivano-Frankivsk"
@@ -224,7 +245,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP05",
-            "geonames": 709716
+            "geonames": 709716,
+            "iso_3166_2": "UA-14"
         },
         "long": {
             "default": "Donetsk"
@@ -234,7 +256,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP04",
-            "geonames": 709929
+            "geonames": 709929,
+            "iso_3166_2": "UA-12"
         },
         "long": {
             "default": "Dnipropetrovsk"
@@ -244,7 +267,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP03",
-            "geonames": 710720
+            "geonames": 710720,
+            "iso_3166_2": "UA-77"
         },
         "long": {
             "default": "Chernivtsi"
@@ -254,7 +278,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP02",
-            "geonames": 710734
+            "geonames": 710734,
+            "iso_3166_2": "UA-74"
         },
         "long": {
             "default": "Chernihiv"
@@ -264,7 +289,8 @@
         "parent": "UA",
         "ids": {
             "fips": "UP01",
-            "geonames": 710802
+            "geonames": 710802,
+            "iso_3166_2": "UA-71"
         },
         "long": {
             "default": "Cherkasy"
