@@ -3,7 +3,8 @@
         "parent": "PF",
         "ids": {
             "fips": "FP04",
-            "geonames": 4019991
+            "geonames": 4019991,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Îles Marquises"
@@ -13,7 +14,8 @@
         "parent": "PF",
         "ids": {
             "fips": "FP03",
-            "geonames": 4030621
+            "geonames": 4030621,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Îles Tuamotu-Gambier"
@@ -23,7 +25,8 @@
         "parent": "PF",
         "ids": {
             "fips": "FP02",
-            "geonames": 4034364
+            "geonames": 4034364,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Leeward Islands"
@@ -33,7 +36,8 @@
         "parent": "PF",
         "ids": {
             "fips": "FP01",
-            "geonames": 4034365
+            "geonames": 4034365,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Îles du Vent"
@@ -43,7 +47,8 @@
         "parent": "PF",
         "ids": {
             "fips": "FP05",
-            "geonames": 4034366
+            "geonames": 4034366,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Îles Australes"

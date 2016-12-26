@@ -3,7 +3,8 @@
         "parent": "MP",
         "ids": {
             "fips": "CQ100",
-            "geonames": 4041530
+            "geonames": 4041530,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Rota"
@@ -13,7 +14,8 @@
         "parent": "MP",
         "ids": {
             "fips": "CQ110",
-            "geonames": 4041552
+            "geonames": 4041552,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saipan"
@@ -23,7 +25,8 @@
         "parent": "MP",
         "ids": {
             "fips": "CQ120",
-            "geonames": 4041650
+            "geonames": 4041650,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Tinian"
@@ -33,7 +36,8 @@
         "parent": "MP",
         "ids": {
             "fips": "CQ085",
-            "geonames": 7733156
+            "geonames": 7733156,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Northern Islands"

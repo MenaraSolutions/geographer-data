@@ -3,7 +3,8 @@
         "parent": "TK",
         "ids": {
             "fips": "N",
-            "geonames": 4031091
+            "geonames": 4031091,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Nukunonu"
@@ -13,7 +14,8 @@
         "parent": "TK",
         "ids": {
             "fips": "F",
-            "geonames": 4031112
+            "geonames": 4031112,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Fakaofo"
@@ -23,7 +25,8 @@
         "parent": "TK",
         "ids": {
             "fips": "A",
-            "geonames": 4031116
+            "geonames": 4031116,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Atafu"

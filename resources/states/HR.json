@@ -3,7 +3,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR01",
-            "geonames": 3337511
+            "geonames": 3337511,
+            "iso_3166_2": "HR-07"
         },
         "long": {
             "default": "Bjelovarsko-Bilogorska"
@@ -13,7 +14,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR02",
-            "geonames": 3337512
+            "geonames": 3337512,
+            "iso_3166_2": "HR-12"
         },
         "long": {
             "default": "Brodsko-Posavska"
@@ -23,7 +25,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR03",
-            "geonames": 3337513
+            "geonames": 3337513,
+            "iso_3166_2": "HR-19"
         },
         "long": {
             "default": "Dubrovačko-Neretvanska"
@@ -33,7 +36,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR04",
-            "geonames": 3337514
+            "geonames": 3337514,
+            "iso_3166_2": "HR-18"
         },
         "long": {
             "default": "Istarska"
@@ -43,7 +47,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR05",
-            "geonames": 3337515
+            "geonames": 3337515,
+            "iso_3166_2": "HR-04"
         },
         "long": {
             "default": "Karlovačka"
@@ -53,7 +58,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR06",
-            "geonames": 3337518
+            "geonames": 3337518,
+            "iso_3166_2": "HR-06"
         },
         "long": {
             "default": "Koprivničko-Križevačka"
@@ -63,7 +69,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR07",
-            "geonames": 3337519
+            "geonames": 3337519,
+            "iso_3166_2": "HR-02"
         },
         "long": {
             "default": "Krapinsko-Zagorska"
@@ -73,7 +80,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR08",
-            "geonames": 3337520
+            "geonames": 3337520,
+            "iso_3166_2": "HR-09"
         },
         "long": {
             "default": "Ličko-Senjska"
@@ -83,7 +91,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR09",
-            "geonames": 3337521
+            "geonames": 3337521,
+            "iso_3166_2": "HR-20"
         },
         "long": {
             "default": "Međimurska"
@@ -93,7 +102,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR10",
-            "geonames": 3337522
+            "geonames": 3337522,
+            "iso_3166_2": "HR-14"
         },
         "long": {
             "default": "Osječko-Baranjska"
@@ -103,7 +113,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR11",
-            "geonames": 3337523
+            "geonames": 3337523,
+            "iso_3166_2": "HR-11"
         },
         "long": {
             "default": "Požeško-Slavonska"
@@ -113,7 +124,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR12",
-            "geonames": 3337524
+            "geonames": 3337524,
+            "iso_3166_2": "HR-08"
         },
         "long": {
             "default": "Primorsko-Goranska"
@@ -123,7 +135,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR13",
-            "geonames": 3337525
+            "geonames": 3337525,
+            "iso_3166_2": "HR-15"
         },
         "long": {
             "default": "Šibensko-Kniniska"
@@ -133,7 +146,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR14",
-            "geonames": 3337526
+            "geonames": 3337526,
+            "iso_3166_2": "HR-03"
         },
         "long": {
             "default": "Sisačko-Moslavačka"
@@ -143,7 +157,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR15",
-            "geonames": 3337527
+            "geonames": 3337527,
+            "iso_3166_2": "HR-17"
         },
         "long": {
             "default": "Splitsko-Dalmatinska"
@@ -153,7 +168,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR16",
-            "geonames": 3337528
+            "geonames": 3337528,
+            "iso_3166_2": "HR-05"
         },
         "long": {
             "default": "Varaždinska"
@@ -163,7 +179,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR18",
-            "geonames": 3337529
+            "geonames": 3337529,
+            "iso_3166_2": "HR-16"
         },
         "long": {
             "default": "Vukovarsko-Srijemska"
@@ -173,7 +190,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR19",
-            "geonames": 3337530
+            "geonames": 3337530,
+            "iso_3166_2": "HR-13"
         },
         "long": {
             "default": "Zadarska"
@@ -183,7 +201,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR20",
-            "geonames": 3337531
+            "geonames": 3337531,
+            "iso_3166_2": "HR-01"
         },
         "long": {
             "default": "Zagrebačka"
@@ -204,7 +223,8 @@
         "parent": "HR",
         "ids": {
             "fips": "HR17",
-            "geonames": 3337533
+            "geonames": 3337533,
+            "iso_3166_2": "HR-10"
         },
         "long": {
             "default": "Virovitičk-Podravska"

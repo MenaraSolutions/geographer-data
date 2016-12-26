@@ -3,7 +3,8 @@
         "parent": "PK",
         "ids": {
             "fips": "PK08",
-            "geonames": 1162015
+            "geonames": 1162015,
+            "iso_3166_2": "PK-IS"
         },
         "long": {
             "default": "Islāmābād"
@@ -24,7 +25,8 @@
         "parent": "PK",
         "ids": {
             "fips": "PK04",
-            "geonames": 1167710
+            "geonames": 1167710,
+            "iso_3166_2": "PK-PB"
         },
         "long": {
             "default": "Punjab"
@@ -67,7 +69,8 @@
         "parent": "PK",
         "ids": {
             "fips": "PK02",
-            "geonames": 1183606
+            "geonames": 1183606,
+            "iso_3166_2": "PK-BA"
         },
         "long": {
             "default": "Balochistān"

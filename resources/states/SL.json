@@ -14,7 +14,8 @@
         "parent": "SL",
         "ids": {
             "fips": "SL03",
-            "geonames": 2403745
+            "geonames": 2403745,
+            "iso_3166_2": "SL-S"
         },
         "long": {
             "default": "Southern Province"
@@ -24,7 +25,8 @@
         "parent": "SL",
         "ids": {
             "fips": "SL02",
-            "geonames": 2404798
+            "geonames": 2404798,
+            "iso_3166_2": "SL-N"
         },
         "long": {
             "default": "Northern Province"
@@ -34,7 +36,8 @@
         "parent": "SL",
         "ids": {
             "fips": "SL01",
-            "geonames": 2409543
+            "geonames": 2409543,
+            "iso_3166_2": "SL-E"
         },
         "long": {
             "default": "Eastern Province"

@@ -3,7 +3,8 @@
         "parent": "SJ",
         "ids": {
             "fips": "SV22",
-            "geonames": 3041964
+            "geonames": 3041964,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Jan Mayen"
@@ -13,7 +14,8 @@
         "parent": "SJ",
         "ids": {
             "fips": "SV21",
-            "geonames": 7521757
+            "geonames": 7521757,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Svalbard"

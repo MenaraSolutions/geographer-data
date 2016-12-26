@@ -2,8 +2,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10346796",
-            "geonames": 10346796
+            "fips": false,
+            "geonames": 10346796,
+            "iso_3166_2": false
         },
         "long": {
             "default": "George Town"
@@ -12,8 +13,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10375968",
-            "geonames": 10375968
+            "fips": false,
+            "geonames": 10375968,
+            "iso_3166_2": false
         },
         "long": {
             "default": "West Bay"
@@ -22,8 +24,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10375969",
-            "geonames": 10375969
+            "fips": false,
+            "geonames": 10375969,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bodden Town"
@@ -32,8 +35,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10375970",
-            "geonames": 10375970
+            "fips": false,
+            "geonames": 10375970,
+            "iso_3166_2": false
         },
         "long": {
             "default": "North Side"
@@ -42,8 +46,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10375971",
-            "geonames": 10375971
+            "fips": false,
+            "geonames": 10375971,
+            "iso_3166_2": false
         },
         "long": {
             "default": "East End"
@@ -52,8 +57,9 @@
     {
         "parent": "KY",
         "ids": {
-            "fips": "CJ10375972",
-            "geonames": 10375972
+            "fips": false,
+            "geonames": 10375972,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sister Island"

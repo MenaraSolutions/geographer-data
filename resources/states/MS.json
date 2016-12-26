@@ -3,7 +3,8 @@
         "parent": "MS",
         "ids": {
             "fips": "MH03",
-            "geonames": 3578039
+            "geonames": 3578039,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint Peter"
@@ -13,7 +14,8 @@
         "parent": "MS",
         "ids": {
             "fips": "MH02",
-            "geonames": 3578044
+            "geonames": 3578044,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint Georges"
@@ -23,7 +25,8 @@
         "parent": "MS",
         "ids": {
             "fips": "MH01",
-            "geonames": 3578045
+            "geonames": 3578045,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint Anthony"
