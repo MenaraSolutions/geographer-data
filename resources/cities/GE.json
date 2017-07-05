@@ -1,67 +1,119 @@
 {
-    "610824": {
-        "ids": {
-            "geonames": 610824
-        },
-        "long": {
-            "default": "Zugdidi"
-        },
-        "parent": 865543,
-        "lat": 42.5088,
-        "lng": 41.87088,
-        "country": "GE",
-        "population": 73006
-    },
-    "611717": {
-        "ids": {
-            "geonames": 611717
-        },
-        "long": {
-            "default": "Tbilisi"
-        },
-        "parent": 611716,
-        "lat": 41.69411,
-        "lng": 44.83368,
-        "country": "GE",
-        "population": 1049498
-    },
-    "611847": {
-        "ids": {
-            "geonames": 611847
-        },
-        "long": {
-            "default": "Sokhumi"
-        },
-        "parent": 6643410,
-        "lat": 43.00697,
-        "lng": 40.9893,
-        "country": "GE",
-        "population": 81546
-    },
-    "613607": {
-        "ids": {
-            "geonames": 613607
-        },
-        "long": {
-            "default": "Kutaisi"
-        },
-        "parent": 865539,
-        "lat": 42.26791,
-        "lng": 42.69459,
-        "country": "GE",
-        "population": 178338
-    },
-    "615532": {
-        "ids": {
-            "geonames": 615532
-        },
-        "long": {
-            "default": "Batumi"
-        },
-        "parent": 615929,
-        "lat": 41.64228,
-        "lng": 41.63392,
-        "country": "GE",
-        "population": 121806
-    }
+	"610824": {
+		"ids": {
+			"geonames": 610824
+		},
+		"long": {
+			"default": "Zugdidi"
+		},
+		"parent": 865543,
+		"lat": 42.5088,
+		"lng": 41.87088,
+		"country": "GE",
+		"population": 73006
+	},
+	"611717": {
+		"ids": {
+			"geonames": 611717
+		},
+		"long": {
+			"default": "Tbilisi"
+		},
+		"parent": 611716,
+		"lat": 41.69411,
+		"lng": 44.83368,
+		"country": "GE",
+		"population": 1108717
+	},
+	"611847": {
+		"ids": {
+			"geonames": 611847
+		},
+		"long": {
+			"default": "Sokhumi"
+		},
+		"parent": 6643410,
+		"lat": 43.00697,
+		"lng": 40.9893,
+		"country": "GE",
+		"population": 81546
+	},
+	"613607": {
+		"ids": {
+			"geonames": 613607
+		},
+		"long": {
+			"default": "Kutaisi"
+		},
+		"parent": 865539,
+		"lat": 42.26791,
+		"lng": 42.69459,
+		"country": "GE",
+		"population": 147635
+	},
+	"615532": {
+		"ids": {
+			"geonames": 615532
+		},
+		"long": {
+			"default": "Batumi"
+		},
+		"parent": 615929,
+		"lat": 41.64228,
+		"lng": 41.63392,
+		"country": "GE",
+		"population": 152839
+	},
+	"612287": {
+		"ids": {
+			"geonames": 612287
+		},
+		"long": {
+			"default": "Rustavi"
+		},
+		"parent": 865536,
+		"lat": 41.51667,
+		"lng": 44.51667,
+		"country": "GE",
+		"population": 125103
+	},
+	"610864": {
+		"ids": {
+			"geonames": 612287
+		},
+		"long": {
+			"default": "Zestaponi"
+		},
+		"parent": 865539,
+		"lat": 42.11,
+		"lng": 43.0525,
+		"country": "GE",
+		"population": 57628
+	},
+	"613762": {
+		"ids": {
+			"geonames": 613762
+		},
+		"long": {
+			"default": "Kobuleti"
+		},
+		"parent": 615929,
+		"lat": 41.82,
+		"lng": 41.77528,
+		"country": "GE",
+		"population": 74794
+	},
+	"824288": {
+		"ids": {
+			"geonames": 824288
+		},
+		"long": {
+			"default": "Kobuleti"
+		},
+		"parent": 615929,
+		"lat": 42.34129,
+		"lng": 42.5976,
+		"country": "GE",
+		"population": 56883
+	}
 }
