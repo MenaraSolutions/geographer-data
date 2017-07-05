@@ -1,6 +1,6 @@
 {
   "name": "geographer-data",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "description": "Basic data package for Geographer - countries and their subdivisions",
   "repository": {
     "type": "git",
