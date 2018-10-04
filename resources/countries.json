@@ -357,6 +357,9 @@
     "area": 7686850,
     "currency": "AUD",
     "phone": "61",
+    "trunkPrefix": "0",
+    "landLineFormat": "[2378]\\d{8}",
+    "mobileFormat": "4\\d{8}",
     "continent": "OC",
     "population": 21515754
   },
@@ -3597,6 +3600,9 @@
     "area": 268680,
     "currency": "NZD",
     "phone": "64",
+    "trunkPrefix": "0",
+    "landLineFormat": "[34679]\\d{7}",
+    "mobileFormat": "2\\d{7,9}",
     "continent": "OC",
     "population": 4252277
   },
