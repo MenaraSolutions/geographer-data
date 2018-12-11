@@ -5308,6 +5308,9 @@
     "area": 9629091,
     "currency": "USD",
     "phone": "1",
+    "trunkPrefix": "1",
+    "landLineFormat": "[2-9]\\d{9}",
+    "mobileFormat": "[2-9]\\d{9}",
     "continent": "NA",
     "population": 310232863
   },
