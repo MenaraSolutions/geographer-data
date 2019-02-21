@@ -212,7 +212,7 @@
         "parent": "FR",
         "ids": {
             "fips": false,
-            "geonames": false,
+            "geonames": 3013755,
             "iso_3166_2": "FR-Q"
         },
         "long": {
