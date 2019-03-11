@@ -5283,6 +5283,9 @@
     "area": 244820,
     "currency": "GBP",
     "phone": "44",
+    "trunkPrefix": "0",
+    "landLineFormat": "[1235]\\d{8,9}",
+    "mobileFormat": "7\\d{9}",
     "continent": "EU",
     "population": 62348447
   },
