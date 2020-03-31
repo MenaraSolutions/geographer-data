@@ -9,7 +9,7 @@
         "long": {
             "default": "Western Australia"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^6\\d{3}$/"
         ]
     },
@@ -23,7 +23,7 @@
         "long": {
             "default": "South Australia"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^5\\d{3}$/"
         ]
     },
@@ -37,7 +37,7 @@
         "long": {
             "default": "Northern Territory"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^0{0,1}(8|9)\\d{2}$/"
         ]
     },
@@ -51,7 +51,7 @@
         "long": {
             "default": "Victoria"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^(3|8)\\d{3}$/"
         ]
     },
@@ -65,7 +65,7 @@
         "long": {
             "default": "Tasmania"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^7\\d{3}$/"
         ]
     },
@@ -79,7 +79,7 @@
         "long": {
             "default": "Queensland"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^(4|9)\\d{3}$/"
         ]
     },
@@ -93,7 +93,7 @@
         "long": {
             "default": "New South Wales"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^1\\d{3}$/",
             "/^2[0-5]\\d{2}$/",
             "/^(2619)|(2[6-8]\\d{2})$/",
@@ -110,7 +110,7 @@
         "long": {
             "default": "Australian Capital Territory"
         },
-        "zip_ranges": [
+        "postcodes": [
             "/^0{0,1}2\\d{2}$/",
             "/^(260\\d)|(261[0-8])$/",
             "/^(29[0-1]\\d)|(2920)$/"
