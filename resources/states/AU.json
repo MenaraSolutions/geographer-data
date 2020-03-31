@@ -8,7 +8,10 @@
         },
         "long": {
             "default": "Western Australia"
-        }
+        },
+        "postcodes": [
+            "/^6\\d{3}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -19,7 +22,10 @@
         },
         "long": {
             "default": "South Australia"
-        }
+        },
+        "postcodes": [
+            "/^5\\d{3}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -30,7 +36,10 @@
         },
         "long": {
             "default": "Northern Territory"
-        }
+        },
+        "postcodes": [
+            "/^0{0,1}(8|9)\\d{2}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -41,7 +50,10 @@
         },
         "long": {
             "default": "Victoria"
-        }
+        },
+        "postcodes": [
+            "/^(3|8)\\d{3}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -52,7 +64,10 @@
         },
         "long": {
             "default": "Tasmania"
-        }
+        },
+        "postcodes": [
+            "/^7\\d{3}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -63,7 +78,10 @@
         },
         "long": {
             "default": "Queensland"
-        }
+        },
+        "postcodes": [
+            "/^(4|9)\\d{3}$/"
+        ]
     },
     {
         "parent": "AU",
@@ -74,7 +92,13 @@
         },
         "long": {
             "default": "New South Wales"
-        }
+        },
+        "postcodes": [
+            "/^1\\d{3}$/",
+            "/^2[0-5]\\d{2}$/",
+            "/^(2619)|(2[6-8]\\d{2})$/",
+            "/^(292[1-9])|(29[3-9]\\d{1})$/"
+        ]
     },
     {
         "parent": "AU",
@@ -85,6 +109,11 @@
         },
         "long": {
             "default": "Australian Capital Territory"
-        }
+        },
+        "postcodes": [
+            "/^0{0,1}2\\d{2}$/",
+            "/^(260\\d)|(261[0-8])$/",
+            "/^(29[0-1]\\d)|(2920)$/"
+        ]
     }
 ]
