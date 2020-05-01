@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Arkansas"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Washington, D.C."
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Delaware"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Florida"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Georgia"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Kansas"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Louisiana"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Maryland"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Missouri"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Mississippi"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "North Carolina"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Oklahoma"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "South Carolina"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Tennessee"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Texas"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -184,7 +199,8 @@
         },
         "long": {
             "default": "Alabama"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -195,7 +211,8 @@
         },
         "long": {
             "default": "Connecticut"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -206,7 +223,8 @@
         },
         "long": {
             "default": "Iowa"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -217,7 +235,8 @@
         },
         "long": {
             "default": "Illinois"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -228,7 +247,8 @@
         },
         "long": {
             "default": "Indiana"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -239,7 +259,8 @@
         },
         "long": {
             "default": "Maine"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -250,7 +271,8 @@
         },
         "long": {
             "default": "Michigan"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -261,7 +283,8 @@
         },
         "long": {
             "default": "Minnesota"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -272,7 +295,8 @@
         },
         "long": {
             "default": "Nebraska"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -283,7 +307,8 @@
         },
         "long": {
             "default": "New Hampshire"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -294,7 +319,8 @@
         },
         "long": {
             "default": "New Jersey"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -305,7 +331,8 @@
         },
         "long": {
             "default": "New York"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -316,7 +343,8 @@
         },
         "long": {
             "default": "Ohio"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -327,7 +355,8 @@
         },
         "long": {
             "default": "Rhode Island"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -338,7 +367,8 @@
         },
         "long": {
             "default": "Vermont"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -349,7 +379,8 @@
         },
         "long": {
             "default": "Wisconsin"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -360,7 +391,8 @@
         },
         "long": {
             "default": "California"
-        }
+        },
+        "timezone": "America/Los_Angeles"
     },
     {
         "parent": "US",
@@ -371,7 +403,8 @@
         },
         "long": {
             "default": "Colorado"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -382,7 +415,8 @@
         },
         "long": {
             "default": "New Mexico"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -393,7 +427,8 @@
         },
         "long": {
             "default": "Nevada"
-        }
+        },
+        "timezone": "America/Los_Angeles"
     },
     {
         "parent": "US",
@@ -404,7 +439,8 @@
         },
         "long": {
             "default": "Utah"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -415,7 +451,8 @@
         },
         "long": {
             "default": "Arizona"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -426,7 +463,8 @@
         },
         "long": {
             "default": "Idaho"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -437,7 +475,8 @@
         },
         "long": {
             "default": "Montana"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -448,7 +487,8 @@
         },
         "long": {
             "default": "North Dakota"
-        }
+        },
+        "timezone": "America/Chicago"
     },
     {
         "parent": "US",
@@ -459,7 +499,8 @@
         },
         "long": {
             "default": "Oregon"
-        }
+        },
+        "timezone": "America/Los_Angeles"
     },
     {
         "parent": "US",
@@ -470,7 +511,8 @@
         },
         "long": {
             "default": "South Dakota"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -481,7 +523,8 @@
         },
         "long": {
             "default": "Washington"
-        }
+        },
+        "timezone": "America/Los_Angeles"
     },
     {
         "parent": "US",
@@ -492,7 +535,8 @@
         },
         "long": {
             "default": "Wyoming"
-        }
+        },
+        "timezone": "America/Denver"
     },
     {
         "parent": "US",
@@ -503,7 +547,8 @@
         },
         "long": {
             "default": "Hawaii"
-        }
+        },
+        "timezone": "Pacific/Honolulu"
     },
     {
         "parent": "US",
@@ -514,7 +559,8 @@
         },
         "long": {
             "default": "Alaska"
-        }
+        },
+        "timezone": "America/Anchorage"
     },
     {
         "parent": "US",
@@ -525,7 +571,8 @@
         },
         "long": {
             "default": "Kentucky"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -536,7 +583,8 @@
         },
         "long": {
             "default": "Massachusetts"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -547,7 +595,8 @@
         },
         "long": {
             "default": "Pennsylvania"
-        }
+        },
+        "timezone": "America/New_York"
     },
     {
         "parent": "US",
@@ -558,6 +607,7 @@
         },
         "long": {
             "default": "Virginia"
-        }
+        },
+        "timezone": "America/New_York"
     }
 ]

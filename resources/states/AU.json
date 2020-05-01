@@ -11,7 +11,8 @@
         },
         "postcodes": [
             "/^6\\d{3}$/"
-        ]
+        ],
+        "timezone": "Australia/Perth"
     },
     {
         "parent": "AU",
@@ -25,7 +26,8 @@
         },
         "postcodes": [
             "/^5\\d{3}$/"
-        ]
+        ],
+        "timezone": "Australia/Adelaide"
     },
     {
         "parent": "AU",
@@ -39,7 +41,8 @@
         },
         "postcodes": [
             "/^0{0,1}(8|9)\\d{2}$/"
-        ]
+        ],
+        "timezone": "Australia/Darwin"
     },
     {
         "parent": "AU",
@@ -53,7 +56,8 @@
         },
         "postcodes": [
             "/^(3|8)\\d{3}$/"
-        ]
+        ],
+        "timezone": "Australia/Melbourne"
     },
     {
         "parent": "AU",
@@ -67,7 +71,8 @@
         },
         "postcodes": [
             "/^7\\d{3}$/"
-        ]
+        ],
+        "timezone": "Australia/Hobart"
     },
     {
         "parent": "AU",
@@ -81,7 +86,8 @@
         },
         "postcodes": [
             "/^(4|9)\\d{3}$/"
-        ]
+        ],
+        "timezone": "Australia/Brisbane"
     },
     {
         "parent": "AU",
@@ -98,7 +104,8 @@
             "/^2[0-5]\\d{2}$/",
             "/^(2619)|(2[6-8]\\d{2})$/",
             "/^(292[1-9])|(29[3-9]\\d{1})$/"
-        ]
+        ],
+        "timezone": "Australia/Sydney"
     },
     {
         "parent": "AU",
@@ -114,6 +121,7 @@
             "/^0{0,1}2\\d{2}$/",
             "/^(260\\d)|(261[0-8])$/",
             "/^(29[0-1]\\d)|(2920)$/"
-        ]
+        ],
+        "timezone": "Australia/Canberra"
     }
 ]
