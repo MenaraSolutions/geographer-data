@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Zulia"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Yaracuy"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Trujillo"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Táchira"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Sucre"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Portuguesa"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Nueva Esparta"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Monagas"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Miranda"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Mérida"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Lara"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Guárico"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Dependencias Federales"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Distrito Federal"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Falcón"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Delta Amacuro"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Cojedes"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Carabobo"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -206,7 +224,8 @@
         },
         "long": {
             "default": "Bolívar"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -217,7 +236,8 @@
         },
         "long": {
             "default": "Barinas"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -228,7 +248,8 @@
         },
         "long": {
             "default": "Aragua"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -239,7 +260,8 @@
         },
         "long": {
             "default": "Apure"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -250,7 +272,8 @@
         },
         "long": {
             "default": "Anzoátegui"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -261,7 +284,8 @@
         },
         "long": {
             "default": "Amazonas"
-        }
+        },
+        "timezone": "America/Caracas"
     },
     {
         "parent": "VE",
@@ -272,6 +296,7 @@
         },
         "long": {
             "default": "Vargas"
-        }
+        },
+        "timezone": "America/Caracas"
     }
 ]
