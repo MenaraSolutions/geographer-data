@@ -8,7 +8,8 @@
     },
     "long": {
       "default": "Nghệ An"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -19,7 +20,8 @@
     },
     "long": {
       "default": "Ninh Bình"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -30,7 +32,8 @@
     },
     "long": {
       "default": "Ninh Thuận"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -41,7 +44,8 @@
     },
     "long": {
       "default": "Sóc Trăng"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -52,7 +56,8 @@
     },
     "long": {
       "default": "Trà Vinh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -63,7 +68,8 @@
     },
     "long": {
       "default": "Tuyên Quang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -74,7 +80,8 @@
     },
     "long": {
       "default": "Vĩnh Long"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -85,7 +92,8 @@
     },
     "long": {
       "default": "Yên Bái"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -96,7 +104,8 @@
     },
     "long": {
       "default": "Lào Cai"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -107,7 +116,8 @@
     },
     "long": {
       "default": "Tiền Giang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -118,7 +128,8 @@
     },
     "long": {
       "default": "Thừa Thiên-Huế"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -129,7 +140,8 @@
     },
     "long": {
       "default": "Kon Tum"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -140,7 +152,8 @@
     },
     "long": {
       "default": "Thanh Hóa"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -151,7 +164,8 @@
     },
     "long": {
       "default": "Thái Bình"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -162,7 +176,8 @@
     },
     "long": {
       "default": "Tây Ninh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -173,7 +188,8 @@
     },
     "long": {
       "default": "Sơn La"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -184,7 +200,8 @@
     },
     "long": {
       "default": "Quảng Trị"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -195,7 +212,8 @@
     },
     "long": {
       "default": "Quảng Ninh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -206,7 +224,8 @@
     },
     "long": {
       "default": "Quảng Ngãi"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -217,7 +236,8 @@
     },
     "long": {
       "default": "Quảng Bình"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -228,7 +248,8 @@
     },
     "long": {
       "default": "Phú Yên"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -239,7 +260,8 @@
     },
     "long": {
       "default": "Hòa Bình"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -250,7 +272,8 @@
     },
     "long": {
       "default": "Long An"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -261,7 +284,8 @@
     },
     "long": {
       "default": "Lạng Sơn"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -272,7 +296,8 @@
     },
     "long": {
       "default": "Lâm Đồng"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -305,7 +330,8 @@
     },
     "long": {
       "default": "Khánh Hòa"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -316,7 +342,8 @@
     },
     "long": {
       "default": "Ho Chi Minh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -327,7 +354,8 @@
     },
     "long": {
       "default": "Hà Tĩnh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -338,7 +366,8 @@
     },
     "long": {
       "default": "Hà Giang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -349,7 +378,8 @@
     },
     "long": {
       "default": "Gia Lai"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -360,7 +390,8 @@
     },
     "long": {
       "default": "Ha Nội"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -371,7 +402,8 @@
     },
     "long": {
       "default": "Cần Thơ"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -382,7 +414,8 @@
     },
     "long": {
       "default": "Hải Phòng"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -393,7 +426,8 @@
     },
     "long": {
       "default": "Bình Thuận"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -404,7 +438,8 @@
     },
     "long": {
       "default": "Đồng Tháp"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -415,7 +450,8 @@
     },
     "long": {
       "default": "Đồng Nai"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -426,7 +462,8 @@
     },
     "long": {
       "default": "Ðắc Lắk"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -437,7 +474,8 @@
     },
     "long": {
       "default": "Bà Rịa-Vũng Tàu"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -448,7 +486,8 @@
     },
     "long": {
       "default": "Cao Bằng"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -459,7 +498,8 @@
     },
     "long": {
       "default": "Bình Định"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -470,7 +510,8 @@
     },
     "long": {
       "default": "Bến Tre"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -481,7 +522,8 @@
     },
     "long": {
       "default": "An Giang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -492,7 +534,8 @@
     },
     "long": {
       "default": "Ðắk Nông"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -503,7 +546,8 @@
     },
     "long": {
       "default": "Ðiện Biên"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -514,7 +558,8 @@
     },
     "long": {
       "default": "Bắc Ninh"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -525,7 +570,8 @@
     },
     "long": {
       "default": "Bắc Giang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -536,7 +582,8 @@
     },
     "long": {
       "default": "Đà Nẵng"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -547,7 +594,8 @@
     },
     "long": {
       "default": "Bình Dương"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -558,7 +606,8 @@
     },
     "long": {
       "default": "Bình Phước"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -569,7 +618,8 @@
     },
     "long": {
       "default": "Thái Nguyên"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -580,7 +630,8 @@
     },
     "long": {
       "default": "Quảng Nam"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -591,7 +642,8 @@
     },
     "long": {
       "default": "Phú Thọ"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -602,7 +654,8 @@
     },
     "long": {
       "default": "Nam Định"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -613,7 +666,8 @@
     },
     "long": {
       "default": "Hà Nam"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -624,7 +678,8 @@
     },
     "long": {
       "default": "Bắc Kạn"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -635,7 +690,8 @@
     },
     "long": {
       "default": "Bạc Liêu"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -646,7 +702,8 @@
     },
     "long": {
       "default": "Cà Mau"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -657,7 +714,8 @@
     },
     "long": {
       "default": "Hải Dương"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -668,7 +726,8 @@
     },
     "long": {
       "default": "Hưng Yên"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -679,7 +738,8 @@
     },
     "long": {
       "default": "Vĩnh Phúc"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "parent": "VN",
@@ -690,6 +750,7 @@
     },
     "long": {
       "default": "Hau Giang"
-    }
+    },
+    "timezone": "Asia/Ho_Chi_Minh"
   }
 ]
