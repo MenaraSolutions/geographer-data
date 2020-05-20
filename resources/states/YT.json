@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Acoua"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Bandraboua"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Bandrele"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Bouéni"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Chiconi"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Chirongui"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Dembeni"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Dzaoudzi"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Kani-Kéli"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Koungou"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Mamoudzou"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Mtsamboro"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "M'Tsangamouji"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Ouangani"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Pamandzi"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Sada"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     },
     {
         "parent": "YT",
@@ -184,6 +200,7 @@
         },
         "long": {
             "default": "Tsingoni"
-        }
+        },
+        "timezone": "Indian/Mayotte"
     }
 ]
