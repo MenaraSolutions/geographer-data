@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Free State"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "KwaZulu-Natal"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Eastern Cape"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Gauteng"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Mpumalanga"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Northern Cape"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Limpopo"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "North-West"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     },
     {
         "parent": "ZA",
@@ -96,6 +104,7 @@
         },
         "long": {
             "default": "Western Cape"
-        }
+        },
+        "timezone": "Africa/Johannesburg"
     }
 ]
