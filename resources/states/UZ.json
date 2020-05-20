@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Karakalpakstan"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Surxondaryo"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Samarqand"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Qashqadaryo"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Bukhara"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Toshkent"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Toshkent Shahri"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Sirdaryo"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Navoiy"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Namangan"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Xorazm"
-        }
+        },
+        "timezone": "Asia/Samarkand"
     },
     {
         "parent": "UZ",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Jizzax"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Fergana"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     },
     {
         "parent": "UZ",
@@ -151,6 +164,7 @@
         },
         "long": {
             "default": "Andijon"
-        }
+        },
+        "timezone": "Asia/Tashkent"
     }
 ]
