@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Midlands"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Matabeleland South"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Matabeleland North"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Masvingo"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Mashonaland West"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Mashonaland East"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Mashonaland Central"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Manicaland"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Bulawayo"
-        }
+        },
+        "timezone": "Africa/Harare"
     },
     {
         "parent": "ZW",
@@ -107,6 +116,7 @@
         },
         "long": {
             "default": "Harare"
-        }
+        },
+        "timezone": "Africa/Harare"
     }
 ]
