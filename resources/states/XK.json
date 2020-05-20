@@ -7,7 +7,8 @@
         },
         "long": {
             "default": "Ferizaj"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -17,7 +18,8 @@
         },
         "long": {
             "default": "Gjakova"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -27,7 +29,8 @@
         },
         "long": {
             "default": "Gjilan"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -37,7 +40,8 @@
         },
         "long": {
             "default": "Mitrovica"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -47,7 +51,8 @@
         },
         "long": {
             "default": "Pec"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -57,7 +62,8 @@
         },
         "long": {
             "default": "Pristina"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     },
     {
         "parent": "XK",
@@ -67,6 +73,7 @@
         },
         "long": {
             "default": "Prizren"
-        }
+        },
+        "timezone": "Europe/Belgrade"
     }
 ]
