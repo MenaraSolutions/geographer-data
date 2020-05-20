@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Vaisigano"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Va‘a-o-Fonoti"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Tuamasaga"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Satupa‘itea"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Palauli"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Gagaifomauga"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Gaga‘emauga"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Fa‘asaleleaga"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Atua"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Aiga-i-le-Tai"
-        }
+        },
+        "timezone": "Pacific/Apia"
     },
     {
         "parent": "WS",
@@ -118,6 +128,7 @@
         },
         "long": {
             "default": "A'ana"
-        }
+        },
+        "timezone": "Pacific/Apia"
     }
 ]
