@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Kagera"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Zanzibar West"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Zanzibar North"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Zanzibar South"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Tanga"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Tabora"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Singida"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Shinyanga"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Rukwa"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Pwani"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Pemba South"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Pemba North"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Mwanza"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Morogoro"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Mbeya"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Mara"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Lindi"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Kilimanjaro"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -206,7 +224,8 @@
         },
         "long": {
             "default": "Kigoma"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -217,7 +236,8 @@
         },
         "long": {
             "default": "Iringa"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -228,7 +248,8 @@
         },
         "long": {
             "default": "Dodoma"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -239,7 +260,8 @@
         },
         "long": {
             "default": "Dar es Salaam"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -250,7 +272,8 @@
         },
         "long": {
             "default": "Arusha"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -261,7 +284,8 @@
         },
         "long": {
             "default": "Manyara"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -272,7 +296,8 @@
         },
         "long": {
             "default": "Ruvuma"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -283,7 +308,8 @@
         },
         "long": {
             "default": "Mtwara"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -294,7 +320,8 @@
         },
         "long": {
             "default": "Simiyu"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -305,7 +332,8 @@
         },
         "long": {
             "default": "Geita"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -316,7 +344,8 @@
         },
         "long": {
             "default": "Katavi"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     },
     {
         "parent": "TZ",
@@ -327,6 +356,7 @@
         },
         "long": {
             "default": "Njombe"
-        }
+        },
+        "timezone": "Africa/Dar_es_Salaam"
     }
 ]
