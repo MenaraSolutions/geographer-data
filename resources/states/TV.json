@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Nui"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Nanumea"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Funafuti"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Niutao"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Nanumanga"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Vaitupu"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Nukufetau"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     },
     {
         "parent": "TV",
@@ -85,6 +92,7 @@
         },
         "long": {
             "default": "Nukulaelae"
-        }
+        },
+        "timezone": "Pacific/Funafuti"
     }
 ]
