@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Kinmen"
-        }
+        },
+        "timezone": "Asia/Taipei"
     },
     {
         "parent": "TW",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Kaohsiung"
-        }
+        },
+        "timezone": "Asia/Taipei"
     },
     {
         "parent": "TW",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Taipei"
-        }
+        },
+        "timezone": "Asia/Taipei"
     },
     {
         "parent": "TW",
@@ -41,6 +44,7 @@
         },
         "long": {
             "default": "Taiwan"
-        }
+        },
+        "timezone": "Asia/Taipei"
     }
 ]
