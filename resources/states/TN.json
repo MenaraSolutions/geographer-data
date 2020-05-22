@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Zaghwān"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Tūnis"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Tawzar"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Tataouine"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Sūsah"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Silyānah"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Sīdī Bū Zayd"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Şafāqis"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Qibilī"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Gafsa"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Qābis"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Nābul"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Madanīn"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Jundūbah"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Bin ‘Arūs"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Banzart"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Bājah"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Ariana"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -206,7 +224,8 @@
         },
         "long": {
             "default": "Al Qayrawān"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -217,7 +236,8 @@
         },
         "long": {
             "default": "Al Qaşrayn"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -228,7 +248,8 @@
         },
         "long": {
             "default": "Al Munastīr"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -239,7 +260,8 @@
         },
         "long": {
             "default": "Al Mahdīyah"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -250,7 +272,8 @@
         },
         "long": {
             "default": "Kef"
-        }
+        },
+        "timezone": "Africa/Tunis"
     },
     {
         "parent": "TN",
@@ -261,6 +284,7 @@
         },
         "long": {
             "default": "Manouba"
-        }
+        },
+        "timezone": "Africa/Tunis"
     }
 ]
