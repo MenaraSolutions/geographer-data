@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Sughd"
-        }
+        },
+        "timezone": "Asia/Dushanbe"
     },
     {
         "parent": "TJ",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Gorno-Badakhshan"
-        }
+        },
+        "timezone": "Asia/Dushanbe"
     },
     {
         "parent": "TJ",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Khatlon"
-        }
+        },
+        "timezone": "Asia/Dushanbe"
     },
     {
         "parent": "TJ",
@@ -41,6 +44,7 @@
         },
         "long": {
             "default": "Dushanbe"
-        }
+        },
+        "timezone": "Asia/Dushanbe"
     }
 ]
