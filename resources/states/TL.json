@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Viqueque"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Manufahi"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Manatuto"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Liquiçá"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Lautém"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Cova Lima"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Ermera"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Díli"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Bobonaro"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Baucau"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Oecussi"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Ainaro"
-        }
+        },
+        "timezone": "Asia/Dili"
     },
     {
         "parent": "TL",
@@ -140,6 +152,7 @@
         },
         "long": {
             "default": "Aileu"
-        }
+        },
+        "timezone": "Asia/Dili"
     }
 ]
