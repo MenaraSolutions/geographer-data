@@ -239,6 +239,7 @@
       "default": "Antarctica"
     },
     "area": 14000000,
+    "phone": "672",
     "continent": "AN"
   },
   {
@@ -748,6 +749,7 @@
     },
     "area": 49,
     "currency": "NOK",
+    "phone": "47",
     "continent": "AN"
   },
   {
@@ -1838,6 +1840,7 @@
     },
     "area": 7829,
     "currency": "EUR",
+    "phone": "262",
     "continent": "AN",
     "population": 140
   },
@@ -4661,6 +4664,7 @@
     },
     "area": 3903,
     "currency": "GBP",
+    "phone": "500",
     "continent": "AN",
     "population": 30
   },
