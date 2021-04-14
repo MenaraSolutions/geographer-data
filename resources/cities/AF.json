@@ -149,6 +149,7 @@
         "long": {
             "default": "Kabul"
         },
+        "capital": true,
         "parent": 1138957,
         "lat": 34.52813,
         "lng": 69.17233,

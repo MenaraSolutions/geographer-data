@@ -45,6 +45,7 @@
         "long": {
             "default": "Tirana"
         },
+        "capital": true,
         "parent": 3344951,
         "lat": 41.3275,
         "lng": 19.81889,

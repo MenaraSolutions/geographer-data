@@ -84,6 +84,7 @@
         "long": {
             "default": "Abu Dhabi"
         },
+        "capital": true,
         "parent": 292969,
         "lat": 24.46667,
         "lng": 54.36667,

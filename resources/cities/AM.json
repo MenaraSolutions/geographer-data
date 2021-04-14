@@ -6,6 +6,7 @@
         "long": {
             "default": "Yerevan"
         },
+        "capital": true,
         "parent": 616051,
         "lat": 40.18111,
         "lng": 44.51361,

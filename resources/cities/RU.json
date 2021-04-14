@@ -2138,6 +2138,7 @@
         "long": {
             "default": "Moscow"
         },
+        "capital": true,
         "parent": 524894,
         "lat": 55.75222,
         "lng": 37.61556,
