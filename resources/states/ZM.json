@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Western"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Southern"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "North-Western"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Northern"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Lusaka"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Luapula"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Eastern"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Copperbelt"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
@@ -96,17 +104,19 @@
         },
         "long": {
             "default": "Central"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     },
     {
         "parent": "ZM",
         "ids": {
             "fips": false,
-            "geonames": false,
+            "geonames": 11154503,
             "iso_3166_2": "ZM-10"
         },
         "long": {
             "default": "Muchinga"
-        }
+        },
+        "timezone": "Africa/Lusaka"
     }
 ]

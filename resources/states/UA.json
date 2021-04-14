@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Zhytomyr"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Zaporizhia"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Zakarpattia"
-        }
+        },
+        "timezone": "Europe/Uzhgorod"
     },
     {
         "parent": "UA",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Volyn"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Vinnyts'ka"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Ternopil"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Sumy"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Misto Sevastopol’"
-        }
+        },
+        "timezone": "Europe/Simferopol"
     },
     {
         "parent": "UA",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Rivne"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Poltava"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Odessa"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Mykolaiv"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Lviv"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Luhansk"
-        }
+        },
+        "timezone": "Europe/Zaporozhye"
     },
     {
         "parent": "UA",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Kyiv"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Kyiv City"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Crimea"
-        }
+        },
+        "timezone": "Europe/Simferopol"
     },
     {
         "parent": "UA",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Kirovohrad"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -206,7 +224,8 @@
         },
         "long": {
             "default": "Khmelnytskyi"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -217,7 +236,8 @@
         },
         "long": {
             "default": "Kherson"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -228,7 +248,8 @@
         },
         "long": {
             "default": "Kharkiv"
-        }
+        },
+        "timezone": "Europe/Zaporozhye"
     },
     {
         "parent": "UA",
@@ -239,7 +260,8 @@
         },
         "long": {
             "default": "Ivano-Frankivsk"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -250,7 +272,8 @@
         },
         "long": {
             "default": "Donetsk"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -261,7 +284,8 @@
         },
         "long": {
             "default": "Dnipropetrovsk"
-        }
+        },
+        "timezone": "Europe/Zaporozhye"
     },
     {
         "parent": "UA",
@@ -272,7 +296,8 @@
         },
         "long": {
             "default": "Chernivtsi"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -283,7 +308,8 @@
         },
         "long": {
             "default": "Chernihiv"
-        }
+        },
+        "timezone": "Europe/Kiev"
     },
     {
         "parent": "UA",
@@ -294,6 +320,7 @@
         },
         "long": {
             "default": "Cherkasy"
-        }
+        },
+        "timezone": "Europe/Kiev"
     }
 ]

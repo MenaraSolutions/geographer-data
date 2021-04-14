@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Tobago"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "San Fernando"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Port of Spain"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Mayaro-Rio Claro"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Arima"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Chaguanas"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Couva-Tabaquite-Talparo"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Diego Martin"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Eastern Tobago"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Penal-Debe"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Princes Town"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Point Fortin"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Sangre Grande"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Siparia"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "San Juan-Laventille"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     },
     {
         "parent": "TT",
@@ -173,6 +188,7 @@
         },
         "long": {
             "default": "Tunapuna-Piarco"
-        }
+        },
+        "timezone": "America/Port_of_Spain"
     }
 ]

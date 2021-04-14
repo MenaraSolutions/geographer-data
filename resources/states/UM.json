@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Wake Island"
-        }
+        },
+        "timezone": "Pacific/Wake"
     },
     {
         "parent": "UM",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Navassa Island"
-        }
+        },
+        "timezone": "America/Havana"
     },
     {
         "parent": "UM",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Baker Island"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Howland Island"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Jarvis Island"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Johnston Atoll"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Kingman Reef"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Midway Islands"
-        }
+        },
+        "timezone": "Pacific/Midway"
     },
     {
         "parent": "UM",
@@ -96,6 +104,7 @@
         },
         "long": {
             "default": "Palmyra Atoll"
-        }
+        },
+        "timezone": "Pacific/Midway"
     }
 ]

@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Uvéa"
-        }
+        },
+        "timezone": "Pacific/Wallis"
     },
     {
         "parent": "WF",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Sigavé"
-        }
+        },
+        "timezone": "Pacific/Wallis"
     },
     {
         "parent": "WF",
@@ -30,6 +32,7 @@
         },
         "long": {
             "default": "'Alo"
-        }
+        },
+        "timezone": "Pacific/Wallis"
     }
 ]

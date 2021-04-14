@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Vava‘u"
-        }
+        },
+        "timezone": "Pacific/Tongatapu"
     },
     {
         "parent": "TO",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Tongatapu"
-        }
+        },
+        "timezone": "Pacific/Tongatapu"
     },
     {
         "parent": "TO",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Ha‘apai"
-        }
+        },
+        "timezone": "Pacific/Tongatapu"
     },
     {
         "parent": "TO",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "ʻEua"
-        }
+        },
+        "timezone": "Pacific/Tongatapu"
     },
     {
         "parent": "TO",
@@ -52,6 +56,7 @@
         },
         "long": {
             "default": "Niuas"
-        }
+        },
+        "timezone": "Pacific/Tongatapu"
     }
 ]

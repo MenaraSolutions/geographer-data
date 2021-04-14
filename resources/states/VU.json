@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Tafea"
-        }
+        },
+        "timezone": "Pacific/Efate"
     },
     {
         "parent": "VU",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Sanma"
-        }
+        },
+        "timezone": "Pacific/Efate"
     },
     {
         "parent": "VU",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Torba"
-        }
+        },
+        "timezone": "Pacific/Efate"
     },
     {
         "parent": "VU",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Malampa"
-        }
+        },
+        "timezone": "Pacific/Efate"
     },
     {
         "parent": "VU",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Penama"
-        }
+        },
+        "timezone": "Pacific/Efate"
     },
     {
         "parent": "VU",
@@ -63,6 +68,7 @@
         },
         "long": {
             "default": "Shefa"
-        }
+        },
+        "timezone": "Pacific/Efate"
     }
 ]

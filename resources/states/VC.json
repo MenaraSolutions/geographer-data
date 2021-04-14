@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Saint Patrick"
-        }
+        },
+        "timezone": "America/St_Vincent"
     },
     {
         "parent": "VC",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Saint George"
-        }
+        },
+        "timezone": "America/St_Vincent"
     },
     {
         "parent": "VC",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Saint David"
-        }
+        },
+        "timezone": "America/St_Vincent"
     },
     {
         "parent": "VC",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Saint Andrew"
-        }
+        },
+        "timezone": "America/St_Vincent"
     },
     {
         "parent": "VC",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Grenadines"
-        }
+        },
+        "timezone": "America/St_Vincent"
     },
     {
         "parent": "VC",
@@ -63,6 +68,7 @@
         },
         "long": {
             "default": "Charlotte"
-        }
+        },
+        "timezone": "America/St_Vincent"
     }
 ]

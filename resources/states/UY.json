@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Treinta y Tres"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Tacuarembó"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Soriano"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "San José"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Salto"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Rocha"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Rivera"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Río Negro"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Paysandú"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Montevideo"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Maldonado"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Lavalleja"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Florida"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Flores"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Durazno"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Colonia"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Cerro Largo"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Canelones"
-        }
+        },
+        "timezone": "America/Montevideo"
     },
     {
         "parent": "UY",
@@ -206,6 +224,7 @@
         },
         "long": {
             "default": "Artigas"
-        }
+        },
+        "timezone": "America/Montevideo"
     }
 ]

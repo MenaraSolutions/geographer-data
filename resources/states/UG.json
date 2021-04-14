@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Central Region"
-        }
+        },
+        "timezone": "Africa/Kampala"
     },
     {
         "parent": "UG",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Eastern Region"
-        }
+        },
+        "timezone": "Africa/Kampala"
     },
     {
         "parent": "UG",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Northern Region"
-        }
+        },
+        "timezone": "Africa/Kampala"
     },
     {
         "parent": "UG",
@@ -41,6 +44,7 @@
         },
         "long": {
             "default": "Western Region"
-        }
+        },
+        "timezone": "Africa/Kampala"
     }
 ]
