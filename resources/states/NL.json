@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "South Holland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Zeeland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Utrecht"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Overijssel"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "North Holland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "North Brabant"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Limburg"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Groningen"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Gelderland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Friesland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Drenthe"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     },
     {
         "parent": "NL",
@@ -129,6 +140,7 @@
         },
         "long": {
             "default": "Flevoland"
-        }
+        },
+        "timezone": "Europe/Amsterdam"
     }
 ]

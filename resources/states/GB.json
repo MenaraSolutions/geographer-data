@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Wales"
-        }
+        },
+        "timezone": "Europe/London"
     },
     {
         "parent": "GB",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Scotland"
-        }
+        },
+        "timezone": "Europe/London"
     },
     {
         "parent": "GB",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Northern Ireland"
-        }
+        },
+        "timezone": "Europe/London"
     },
     {
         "parent": "GB",
@@ -41,6 +44,7 @@
         },
         "long": {
             "default": "England"
-        }
+        },
+        "timezone": "Europe/London"
     }
 ]

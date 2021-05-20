@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Wellington"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Manawatu-Wanganui"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Waikato"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Tasman"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Taranaki"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Southland"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Bay of Plenty"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Northland"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Marlborough"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Hawke's Bay"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Gisborne"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Canterbury"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Auckland"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Chatham Islands"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Nelson"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Otago"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     },
     {
         "parent": "NZ",
@@ -184,6 +200,7 @@
         },
         "long": {
             "default": "West Coast"
-        }
+        },
+        "timezone": "Pacific/Auckland"
     }
 ]
