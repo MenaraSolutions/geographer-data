@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Murcia"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Ceuta"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Balearic Islands"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Andalusia"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Canary Islands"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Castille-La Mancha"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Extremadura"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Valencia"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Asturias"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Navarra"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Madrid"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "La Rioja"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Cantabria"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Aragon"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Castille and León"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Catalonia"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Galicia"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Basque Country"
-        }
+        },
+        "timezone": "Europe/Madrid"
     },
     {
         "parent": "ES",
@@ -206,6 +224,7 @@
         },
         "long": {
             "default": "Melilla"
-        }
+        },
+        "timezone": "Europe/Madrid"
     }
 ]
