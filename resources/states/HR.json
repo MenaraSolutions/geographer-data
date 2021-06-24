@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Bjelovarsko-Bilogorska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Brodsko-Posavska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Dubrovačko-Neretvanska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "Istarska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Karlovačka"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Koprivničko-Križevačka"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Krapinsko-Zagorska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Ličko-Senjska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Međimurska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Osječko-Baranjska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Požeško-Slavonska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Primorsko-Goranska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -140,7 +152,8 @@
         },
         "long": {
             "default": "Šibensko-Kniniska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -151,7 +164,8 @@
         },
         "long": {
             "default": "Sisačko-Moslavačka"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -162,7 +176,8 @@
         },
         "long": {
             "default": "Splitsko-Dalmatinska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -173,7 +188,8 @@
         },
         "long": {
             "default": "Varaždinska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -184,7 +200,8 @@
         },
         "long": {
             "default": "Vukovarsko-Srijemska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -195,7 +212,8 @@
         },
         "long": {
             "default": "Zadarska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -206,7 +224,8 @@
         },
         "long": {
             "default": "Zagrebačka"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -217,7 +236,8 @@
         },
         "long": {
             "default": "Grad Zagreb"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     },
     {
         "parent": "HR",
@@ -228,6 +248,7 @@
         },
         "long": {
             "default": "Virovitičk-Podravska"
-        }
+        },
+        "timezone": "Europe/Zagreb"
     }
 ]
