@@ -385,6 +385,8 @@
     "area": 83858,
     "currency": "EUR",
     "phone": "43",
+    "trunkPrefix": "0",
+    "mobileFormat": "6\\d{4,13}",
     "continent": "EU",
     "population": 8205000
   },
@@ -548,6 +550,8 @@
     "area": 30510,
     "currency": "EUR",
     "phone": "32",
+    "trunkPrefix": "0",
+    "mobileFormat": "4\\d{8,10}",
     "continent": "EU",
     "population": 10403000
   },
@@ -970,6 +974,8 @@
     "area": 9984670,
     "currency": "CAD",
     "phone": "1",
+    "trunkPrefix": "1",
+    "mobileFormat": "\\d{10}",
     "continent": "NA",
     "population": 33679000
   },
@@ -1443,6 +1449,8 @@
     "area": 43094,
     "currency": "DKK",
     "phone": "45",
+    "trunkPrefix": "",
+    "mobileFormat": "\\d{8}",
     "continent": "EU",
     "population": 5484000
   },
@@ -1641,6 +1649,8 @@
     "area": 45226,
     "currency": "EUR",
     "phone": "372",
+    "trunkPrefix": "",
+    "mobileFormat": "\\d{7,8}",
     "continent": "EU",
     "population": 1291170
   },
@@ -1751,6 +1761,8 @@
     "area": 337030,
     "currency": "EUR",
     "phone": "358",
+    "trunkPrefix": "0",
+    "mobileFormat": "[45]\\d{3,8}",
     "continent": "EU",
     "population": 5244000
   },
@@ -1773,6 +1785,8 @@
     "area": 547030,
     "currency": "EUR",
     "phone": "33",
+    "trunkPrefix": "0",
+    "mobileFormat": "[67]\\d{8,9}",
     "continent": "EU",
     "population": 64768389
   },
@@ -1926,6 +1940,8 @@
     "area": 357021,
     "currency": "EUR",
     "phone": "49",
+    "trunkPrefix": "0",
+    "mobileFormat": "1\\d{9,11}",
     "continent": "EU",
     "population": 81802257
   },
@@ -2456,6 +2472,8 @@
     "area": 70280,
     "currency": "EUR",
     "phone": "353",
+    "trunkPrefix": "0",
+    "mobileFormat": "8\\d{8}",
     "continent": "EU",
     "population": 4622917
   },
@@ -2522,6 +2540,8 @@
     "area": 301230,
     "currency": "EUR",
     "phone": "39",
+    "trunkPrefix": "",
+    "mobileFormat": "3\\d{8,9}",
     "continent": "EU",
     "population": 60340328
   },
@@ -2808,6 +2828,8 @@
     "area": 64589,
     "currency": "EUR",
     "phone": "371",
+    "trunkPrefix": "",
+    "mobileFormat": "2\\d{7}",
     "continent": "EU",
     "population": 2217969
   },
@@ -2940,6 +2962,8 @@
     "area": 65200,
     "currency": "EUR",
     "phone": "370",
+    "trunkPrefix": "8",
+    "mobileFormat": "6\\d{7}",
     "continent": "EU",
     "population": 2944459
   },
