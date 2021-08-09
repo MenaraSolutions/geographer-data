@@ -2607,7 +2607,10 @@
     },
     "area": 116,
     "currency": "GBP",
-    "phone": "441534",
+    "phone": "44",
+    "trunkPrefix": "0",
+    "landLineFormat": "1534\\d{5,6}",
+    "mobileFormat": "7\\d{9}",
     "continent": "EU",
     "population": 90812
   },
