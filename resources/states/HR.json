@@ -151,7 +151,7 @@
             "iso_3166_2": "HR-15"
         },
         "long": {
-            "default": "Šibensko-Kniniska"
+            "default": "Šibensko-Kninska"
         },
         "timezone": "Europe/Zagreb"
     },
@@ -247,7 +247,7 @@
             "iso_3166_2": "HR-10"
         },
         "long": {
-            "default": "Virovitičk-Podravska"
+            "default": "Virovitičko-Podravska"
         },
         "timezone": "Europe/Zagreb"
     }
