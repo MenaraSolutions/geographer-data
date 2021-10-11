@@ -3586,6 +3586,8 @@
     "area": 41526,
     "currency": "EUR",
     "phone": "31",
+    "trunkPrefix": "0",
+    "mobileFormat": "6\\d{8}",
     "continent": "EU",
     "population": 16645000
   },
