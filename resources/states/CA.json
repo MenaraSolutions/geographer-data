@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Alberta"
-        }
+        },
+        "timezone": "America/Edmonton"
     },
     {
         "parent": "CA",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "British Columbia"
-        }
+        },
+        "timezone": "America/Vancouver"
     },
     {
         "parent": "CA",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Manitoba"
-        }
+        },
+        "timezone": "America/Winnipeg"
     },
     {
         "parent": "CA",
@@ -41,7 +44,8 @@
         },
         "long": {
             "default": "New Brunswick"
-        }
+        },
+        "timezone": "America/Moncton"
     },
     {
         "parent": "CA",
@@ -52,7 +56,8 @@
         },
         "long": {
             "default": "Northwest Territories"
-        }
+        },
+        "timezone": "America/Inuvik"
     },
     {
         "parent": "CA",
@@ -63,7 +68,8 @@
         },
         "long": {
             "default": "Nova Scotia"
-        }
+        },
+        "timezone": "America/Halifax"
     },
     {
         "parent": "CA",
@@ -74,7 +80,8 @@
         },
         "long": {
             "default": "Nunavut"
-        }
+        },
+        "timezone": "America/Winnipeg"
     },
     {
         "parent": "CA",
@@ -85,7 +92,8 @@
         },
         "long": {
             "default": "Ontario"
-        }
+        },
+        "timezone": "America/Toronto"
     },
     {
         "parent": "CA",
@@ -96,7 +104,8 @@
         },
         "long": {
             "default": "Prince Edward Island"
-        }
+        },
+        "timezone": "America/Halifax"
     },
     {
         "parent": "CA",
@@ -107,7 +116,8 @@
         },
         "long": {
             "default": "Quebec"
-        }
+        },
+        "timezone": "America/Toronto"
     },
     {
         "parent": "CA",
@@ -118,7 +128,8 @@
         },
         "long": {
             "default": "Saskatchewan"
-        }
+        },
+        "timezone": "America/Winnipeg"
     },
     {
         "parent": "CA",
@@ -129,7 +140,8 @@
         },
         "long": {
             "default": "Yukon"
-        }
+        },
+        "timezone": "America/Edmonton"
     },
     {
         "parent": "CA",
@@ -140,6 +152,7 @@
         },
         "long": {
             "default": "Newfoundland and Labrador"
-        }
+        },
+        "timezone": "America/Halifax"
     }
 ]
