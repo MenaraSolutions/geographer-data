@@ -8,7 +8,8 @@
         },
         "long": {
             "default": "Connaught"
-        }
+        },
+        "timezone": "Europe/Dublin"
     },
     {
         "parent": "IE",
@@ -19,7 +20,8 @@
         },
         "long": {
             "default": "Leinster"
-        }
+        },
+        "timezone": "Europe/Dublin"
     },
     {
         "parent": "IE",
@@ -30,7 +32,8 @@
         },
         "long": {
             "default": "Munster"
-        }
+        },
+        "timezone": "Europe/Dublin"
     },
     {
         "parent": "IE",
@@ -41,6 +44,7 @@
         },
         "long": {
             "default": "Ulster"
-        }
+        },
+        "timezone": "Europe/Dublin"
     }
 ]
