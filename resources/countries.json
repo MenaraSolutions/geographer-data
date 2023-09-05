@@ -5638,5 +5638,33 @@
     "phone": "263",
     "continent": "AF",
     "population": 11651858
+  },
+  {
+    "languages": [
+      "sq",
+      "sr",
+      "bs",
+      "tr"
+    ],
+    "ids": {
+      "iso_3166_1": [
+        "XK",
+        "XXK",
+        "383"
+      ],
+      "fips": "KV",
+      "geonames": 0
+    },
+    "long": {
+      "default": "Kosovo"
+    },
+    "short": {
+      "default": "Kosovo"
+    },
+    "area": 10908,
+    "currency": "EUR",
+    "phone": "383",
+    "continent": "EU",
+    "population": 1845300
   }
 ]
