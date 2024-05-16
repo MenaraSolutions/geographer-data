@@ -4,7 +4,7 @@
         "ids": {
             "fips": "IR26",
             "geonames": 110791,
-            "iso_3166_2": "IR-07"
+            "iso_3166_2": "IR-23"
         },
         "long": {
             "default": "Tehrān"
@@ -15,7 +15,7 @@
         "ids": {
             "fips": "IR36",
             "geonames": 111452,
-            "iso_3166_2": "IR-11"
+            "iso_3166_2": "IR-19"
         },
         "long": {
             "default": "Zanjan"
@@ -26,7 +26,7 @@
         "ids": {
             "fips": "IR40",
             "geonames": 111821,
-            "iso_3166_2": "IR-25"
+            "iso_3166_2": "IR-21"
         },
         "long": {
             "default": "Yazd"
@@ -37,7 +37,7 @@
         "ids": {
             "fips": "IR25",
             "geonames": 116401,
-            "iso_3166_2": "IR-12"
+            "iso_3166_2": "IR-20"
         },
         "long": {
             "default": "Semnān"
@@ -48,7 +48,7 @@
         "ids": {
             "fips": "IR35",
             "geonames": 124544,
-            "iso_3166_2": "IR-21"
+            "iso_3166_2": "IR-02"
         },
         "long": {
             "default": "Māzandarān"
@@ -59,7 +59,7 @@
         "ids": {
             "fips": "IR34",
             "geonames": 124763,
-            "iso_3166_2": "IR-22"
+            "iso_3166_2": "IR-00"
         },
         "long": {
             "default": "Markazi"
@@ -70,7 +70,7 @@
         "ids": {
             "fips": "IR23",
             "geonames": 125605,
-            "iso_3166_2": "IR-20"
+            "iso_3166_2": "IR-15"
         },
         "long": {
             "default": "Lorestān"
@@ -81,7 +81,7 @@
         "ids": {
             "fips": "IR16",
             "geonames": 126584,
-            "iso_3166_2": "IR-16"
+            "iso_3166_2": "IR-12"
         },
         "long": {
             "default": "Kordestān"
@@ -92,10 +92,10 @@
         "ids": {
             "fips": "IR05",
             "geonames": 126878,
-            "iso_3166_2": "IR-18"
+            "iso_3166_2": "IR-17"
         },
         "long": {
-            "default": "Kohgīlūyeh va Būyer Aḩmad"
+            "default": "Kohgīlūyeh va Bowyer Aḩmad"
         }
     },
     {
@@ -103,7 +103,7 @@
         "ids": {
             "fips": "IR15",
             "geonames": 127082,
-            "iso_3166_2": "IR-10"
+            "iso_3166_2": "IR-06"
         },
         "long": {
             "default": "Khuzestan"
@@ -114,7 +114,7 @@
         "ids": {
             "fips": "IR13",
             "geonames": 128222,
-            "iso_3166_2": "IR-17"
+            "iso_3166_2": "IR-05"
         },
         "long": {
             "default": "Kermānshāh"
@@ -125,7 +125,7 @@
         "ids": {
             "fips": "IR29",
             "geonames": 128231,
-            "iso_3166_2": "IR-15"
+            "iso_3166_2": "IR-08"
         },
         "long": {
             "default": "Kerman"
@@ -136,7 +136,7 @@
         "ids": {
             "fips": "IR10",
             "geonames": 130801,
-            "iso_3166_2": "IR-05"
+            "iso_3166_2": "IR-16"
         },
         "long": {
             "default": "Īlām"
@@ -147,10 +147,10 @@
         "ids": {
             "fips": "IR11",
             "geonames": 131222,
-            "iso_3166_2": "IR-23"
+            "iso_3166_2": "IR-22"
         },
         "long": {
-            "default": "Hormozgan"
+            "default": "Hormozgān"
         }
     },
     {
@@ -158,7 +158,7 @@
         "ids": {
             "fips": "IR09",
             "geonames": 132142,
-            "iso_3166_2": "IR-24"
+            "iso_3166_2": "IR-13"
         },
         "long": {
             "default": "Hamadān"
@@ -169,7 +169,7 @@
         "ids": {
             "fips": "IR08",
             "geonames": 133349,
-            "iso_3166_2": "IR-19"
+            "iso_3166_2": "IR-01"
         },
         "long": {
             "default": "Gīlān"
@@ -180,10 +180,10 @@
         "ids": {
             "fips": "IR07",
             "geonames": 134766,
-            "iso_3166_2": "IR-14"
+            "iso_3166_2": "IR-07"
         },
         "long": {
-            "default": "Fars"
+            "default": "Fārs"
         }
     },
     {
@@ -191,10 +191,10 @@
         "ids": {
             "fips": "IR03",
             "geonames": 139677,
-            "iso_3166_2": "IR-08"
+            "iso_3166_2": "IR-14"
         },
         "long": {
-            "default": "Chahār Maḩāll va Bakhtīārī"
+            "default": "Chahār Maḩāl va Bakhtīārī"
         }
     },
     {
@@ -202,10 +202,10 @@
         "ids": {
             "fips": "IR22",
             "geonames": 139816,
-            "iso_3166_2": "IR-06"
+            "iso_3166_2": "IR-18"
         },
         "long": {
-            "default": "Bushehr"
+            "default": "Būshehr"
         }
     },
     {
@@ -213,10 +213,10 @@
         "ids": {
             "fips": "IR33",
             "geonames": 142549,
-            "iso_3166_2": "IR-01"
+            "iso_3166_2": "IR-03"
         },
         "long": {
-            "default": "Āz̄arbāyjān-e Sharqī"
+            "default": "Āz̄ārbāyjān-e Shārqī"
         }
     },
     {
@@ -224,10 +224,10 @@
         "ids": {
             "fips": "IR01",
             "geonames": 142550,
-            "iso_3166_2": "IR-02"
+            "iso_3166_2": "IR-04"
         },
         "long": {
-            "default": "Āz̄ārbāyjān-e Gharbī"
+            "default": "Āz̄ārbāyjān-e Ghārbī"
         }
     },
     {
@@ -235,7 +235,7 @@
         "ids": {
             "fips": "IR32",
             "geonames": 413931,
-            "iso_3166_2": "IR-03"
+            "iso_3166_2": "IR-24"
         },
         "long": {
             "default": "Ardabīl"
@@ -246,7 +246,7 @@
         "ids": {
             "fips": "IR28",
             "geonames": 418862,
-            "iso_3166_2": "IR-04"
+            "iso_3166_2": "IR-10"
         },
         "long": {
             "default": "Eşfahān"
@@ -268,7 +268,7 @@
         "ids": {
             "fips": "IR38",
             "geonames": 443793,
-            "iso_3166_2": "IR-28"
+            "iso_3166_2": "IR-26"
         },
         "long": {
             "default": "Qazvīn"
@@ -279,7 +279,7 @@
         "ids": {
             "fips": "IR39",
             "geonames": 443794,
-            "iso_3166_2": "IR-26"
+            "iso_3166_2": "IR-25"
         },
         "long": {
             "default": "Qom"
@@ -290,10 +290,10 @@
         "ids": {
             "fips": "IR04",
             "geonames": 1159456,
-            "iso_3166_2": "IR-13"
+            "iso_3166_2": "IR-11"
         },
         "long": {
-            "default": "Sistan and Baluchestan"
+            "default": "Sīstān va Balūchestān"
         }
     },
     {
@@ -312,7 +312,7 @@
         "ids": {
             "fips": "IR42",
             "geonames": 6201375,
-            "iso_3166_2": "IR-30"
+            "iso_3166_2": "IR-09"
         },
         "long": {
             "default": "Khorāsān-e Raẕavī"
@@ -323,7 +323,7 @@
         "ids": {
             "fips": "IR43",
             "geonames": 6201376,
-            "iso_3166_2": "IR-31"
+            "iso_3166_2": "IR-28"
         },
         "long": {
             "default": "Khorāsān-e Shomālī"
@@ -334,7 +334,7 @@
         "ids": {
             "fips": "IR44",
             "geonames": 7648907,
-            "iso_3166_2": "IR-32"
+            "iso_3166_2": "IR-30"
         },
         "long": {
             "default": "Alborz"
